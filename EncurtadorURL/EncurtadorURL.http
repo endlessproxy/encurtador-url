@@ -1,0 +1,6 @@
+@EncurtadorURL_HostAddress = http://localhost:8000
+
+GET {{EncurtadorURL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
